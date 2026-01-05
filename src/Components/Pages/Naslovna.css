@@ -1,0 +1,61 @@
+/*ako imamo gje da bi mogli dodati citat ili neku posebnu recenicu*/
+.uvodniParagraph { 
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: xx-large;
+}
+
+/*h2*/
+.podnaslov{
+    font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+/*font koji je ce se koristiti u svrhu navigacije */
+.navigacija{
+    font-size: medium;
+    font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+/*fontovi za ostatak teksta koji se siri stranicom kako bi se dobila konstana*/
+.ostatakTexta{
+
+    font-size: large;
+    font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+
+}
+h1{
+    font-size: x-large;
+    font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+@media (max-width: 768px) {
+  .grid_kolona {
+    grid-template-columns: 1fr; 
+  }
+  .grid_kolona > div {
+    margin-bottom: 1rem; 
+  }
+}
+
+@media (prefers-color-scheme: dark) and (max-width: 640px) {
+  body {
+    background-color: white !important; 
+    color: black !important; 
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}

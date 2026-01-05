@@ -1,0 +1,31 @@
+{
+    "djecji": [
+      {
+        "title": "Ples i rekreacija za djecu",
+        "description": "Plesna kultura se uči od malih nogu. Ples razvija dječji mozak, povećava spretnost i fizičku kondiciju djeteta, poboljšava socijalne vještine Vašeg djeteta te gradi samopouzdanje. Uz igru i opušten pristup prilagođen uzrastu djeteta upoznajte se s ritmovima i koracima standardnih i latinoameričkih plesova.<br/ >2 * 1 sat tjedno 40€/mj"
+      },
+      {
+        "title": "Plesna igraonica",
+        "description": "Plesna igraonica namijenjena je za najmlađe plesače od 3,5 do 5,5 godina. Uz igru i stručno vodstvo upoznajemo glazbu, različite ritmove te razvijamo motoriku, ali i stvaramo nova prijateljstva. Plešimo uz igru i druženje."
+      },
+      {
+        "title": "Individualna poduka",
+        "description": "Individualna poduka podrazumijeva sat podučavanja plesa koji uključuje samo polaznika (ili plesni par) i instruktora. Prilagođava se Vašim potrebama, željama i plesnom umijeću. Omogućava brže napredovanje i usavršavanje plesnog znanja. Termini po dogovoru u trajanju od 45 minuta. <br /> Cijena na upit!"
+      }
+    ],
+    "odrasli": [
+      {
+        "title": "Tečaj društvenih plesova za odrasle",
+        "description": "Ne želite više sjediti na svadbama i drugim društvenim događanjima? Oslobodite se i zabavite na plesnom podiju. Uz osmijeh na licu i dobru zabavu savladajte osnovne korake i figure društvenih plesova. Zaplešite disco-fox, cha-cha-cha, foxtrot, engleski valcer, bečki valcer i tango te uživajte u dobroj glazbi. <br /> 2 * 1 sat tjedno 40€/mj"
+      },
+      {
+        "title": "Ladies latin",
+        "description": "Želite plesati, a nemate plesnog partnera? Ladies latin je plesna rekreacija za žene koje vole plesati, rekreirati se i dobro se zabaviti. Jačajte svoje mišiće uz dobru glazbu i zaplešite s nama atraktivne figure i koreografije latino plesova. <br /> 2 * 1 h tjedno 40€/mj"
+      },
+      {
+        "title": "Team building",
+        "description": "Team building je plesna radionica za članove Vašeg tima. Izađite iz sigurne zone i iskušajte se u drugačijoj vrsti team buildinga. Ples je zabava, djeluje relaksirajuće te podiže pozitivno raspoloženje. Aktivnosti se mogu provoditi u prostorijama naše organizacije, ali i kod Vas! <br /> Cijena na upit!"
+      }
+    ]
+  }
+  
